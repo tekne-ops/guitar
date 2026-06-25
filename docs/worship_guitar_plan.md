@@ -11,10 +11,7 @@ Become confident leading praise in church using fingerstyle guitar, with a stron
 Play:
 - C → G → Am → F
 
-Pattern:
-```
-P – i – m – a – m – i
-```
+Pattern: [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow)
 Focus:
 - Clean sound
 - Even timing
@@ -23,7 +20,7 @@ Focus:
 ---
 
 ## 🔹 B. Core Skill Block (10 min)
-Work on 2 patterns per week.
+Work on 2 [patterns](fingerpicking_patterns.md) per week.
 
 Chord rotations:
 - Week 1: G – D – Em – C
@@ -34,7 +31,7 @@ Chord rotations:
 
 ## 🔹 C. Worship Application (10–15 min)
 - Practice 1 hymn + 1 contemporary song
-- Use at least 2 patterns
+- Use at least 2 [patterns](fingerpicking_patterns.md)
 
 ---
 
@@ -58,35 +55,35 @@ Patterns: [5](fingerpicking_patterns.md#Pattern-5-34-Waltz), [1](fingerpicking_p
 ---
 
 ### [How Great Thou Art](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/how-great-thou-art-chords-877980)
-Patterns: 2
+Patterns: [2](fingerpicking_patterns.md#Pattern-2Alternating-Bass)
 
 ---
 
 ### [It Is Well With My Soul](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/it-is-well-with-my-soul-chords-1735270)
 
-Patterns: 1 (verse), 3 (build)
+Patterns: [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (verse), [3](fingerpicking_patterns.md#Pattern-3Rolling-Pattern) (build)
 
 ---
 
 ## 🎶 Contemporary Worship
 
 ### Goodness of God (Key: G)
-Patterns: 1 (verse), 3 (chorus)
+Patterns: [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (verse), [3](fingerpicking_patterns.md#Pattern-3Rolling-Pattern) (chorus)
 
 ---
 
 ### [10,000 Reasons](https://tabs.ultimate-guitar.com/tab/matt-redman/10000-reasons-bless-the-lord-chords-1076668)
-Patterns: 2
+Patterns: [2](fingerpicking_patterns.md#Pattern-2Alternating-Bass)
 
 ---
 
 ### [What a Beautiful Name](https://tabs.ultimate-guitar.com/tab/hillsong-worship/what-a-beautiful-name-chords-1860751)
-Patterns: 4 (intro), 1 (build)
+Patterns: [4](fingerpicking_patterns.md#Pattern-4Minimalist) (intro), [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (build)
 
 ---
 
 ### [Build My Life](https://tabs.ultimate-guitar.com/tab/housefires/build-my-life-chords-1857672)
-Patterns: 3
+Patterns: [3](fingerpicking_patterns.md#Pattern-3Rolling-Pattern)
 
 ---
 
