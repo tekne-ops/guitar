@@ -89,7 +89,7 @@ Use: hymns (e.g., Amazing Grace)
 
 ## 🙏 Hymns
 
-### Amazing Grace (Key: G)
+### [Amazing Grace](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/amazing-grace-chords-614298)
 Chords:
 ```
 G – C – G
@@ -99,7 +99,7 @@ Patterns: 5, 1
 
 ---
 
-### How Great Thou Art
+### [How Great Thou Art](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/how-great-thou-art-chords-877980)
 Patterns: 2
 
 ---
