@@ -117,17 +117,17 @@ Patterns: 1 (verse), 3 (chorus)
 
 ---
 
-### 10,000 Reasons
+### [10,000 Reasons](https://tabs.ultimate-guitar.com/tab/matt-redman/10000-reasons-bless-the-lord-chords-1076668)
 Patterns: 2
 
 ---
 
-### What a Beautiful Name (Key: D)
+### [What a Beautiful Name](https://tabs.ultimate-guitar.com/tab/hillsong-worship/what-a-beautiful-name-chords-1860751)
 Patterns: 4 (intro), 1 (build)
 
 ---
 
-### Build My Life
+### [Build My Life](https://tabs.ultimate-guitar.com/tab/housefires/build-my-life-chords-1857672)
 Patterns: 3
 
 ---
