@@ -104,8 +104,7 @@ Patterns: 2
 
 ---
 
-### It Is Well With My Soul
-Tab: [Ultimate Guitar](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/it-is-well-with-my-soul-chords-1735270)
+[### It Is Well With My Soul](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/it-is-well-with-my-soul-chords-1735270)
 
 Patterns: 1 (verse), 3 (build)
 
