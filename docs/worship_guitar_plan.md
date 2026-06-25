@@ -53,7 +53,7 @@ Chords:
 G – C – G
 G – D – G
 ```
-Patterns: [5](fingerpicking_patterns.md#Pattern-5-34-Waltz), [1](fingerpicking_patterns.md#Pattern-1:Basic-Worship-Flow)
+Patterns: [5](fingerpicking_patterns.md#Pattern-5-34-Waltz), [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow)
 
 ---
 
