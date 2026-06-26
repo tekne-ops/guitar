@@ -50,16 +50,30 @@ Chords:
 G – C – G
 G – D – G
 ```
+✅ Time feel: 3/4 (waltz)
+🟢 Beginner practice: 50–60 BPM
+🟡 Comfortable: 60–70 BPM
+🔵 Leading tempo: 70–80 BPM
+
 Patterns: [5](fingerpicking_patterns.md#Pattern-5-34-Waltz), [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow)
 
 ---
 
 ### [How Great Thou Art](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/how-great-thou-art-chords-877980)
+✅ Time feel: 4/4 but spacious
+🟢 Beginner: 55–65 BPM
+🟡 Comfortable: 65–75 BPM
+🔵 Leading: 70–80 BPM
+
 Patterns: [2](fingerpicking_patterns.md#Pattern-2Alternating-Bass)
 
 ---
 
 ### [It Is Well With My Soul](https://tabs.ultimate-guitar.com/tab/misc-praise-songs/it-is-well-with-my-soul-chords-1735270)
+✅ Emotional + dynamic
+🟢 Beginner: 50–60 BPM
+🟡 Comfortable: 60–70 BPM
+🔵 Leading: 65–75 BPM
 
 Patterns: [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (verse), [3](fingerpicking_patterns.md#Pattern-3Rolling-Pattern) (build)
 
@@ -68,21 +82,41 @@ Patterns: [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (verse), [3
 ## 🎶 Contemporary Worship
 
 ### Goodness of God (Key: G)
+✅ Very expressive, slow build
+🟢 Practice: 55–65 BPM
+🟡 Comfortable: 65–70 BPM
+🔵 Leading: 70–75 BPM
+
 Patterns: [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (verse), [3](fingerpicking_patterns.md#Pattern-3Rolling-Pattern) (chorus)
 
 ---
 
 ### [10,000 Reasons](https://tabs.ultimate-guitar.com/tab/matt-redman/10000-reasons-bless-the-lord-chords-1076668)
+✅ Steady worship groove
+🟢 Beginner: 65–70 BPM
+🟡 Comfortable: 70–75 BPM
+🔵 Leading: 75–80 BPM
+
 Patterns: [2](fingerpicking_patterns.md#Pattern-2Alternating-Bass)
 
 ---
 
 ### [What a Beautiful Name](https://tabs.ultimate-guitar.com/tab/hillsong-worship/what-a-beautiful-name-chords-1860751)
+✅ Slow intro → builds gradually
+🟢 Intro: 50–60 BPM
+🟡 Build: 60–70 BPM
+🔵 Chorus: 70–75 BPM
+
 Patterns: [4](fingerpicking_patterns.md#Pattern-4Minimalist) (intro), [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (build)
 
 ---
 
 ### [Build My Life](https://tabs.ultimate-guitar.com/tab/housefires/build-my-life-chords-1857672)
+✅ Modern, flowing rhythm
+🟢 Beginner: 65–70 BPM
+🟡 Comfortable: 70–75 BPM
+🔵 Leading: 75–80 BPM
+
 Patterns: [3](fingerpicking_patterns.md#Pattern-3Rolling-Pattern)
 
 ---
