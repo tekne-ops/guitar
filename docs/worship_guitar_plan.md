@@ -77,6 +77,8 @@ Patterns: [2](fingerpicking_patterns.md#Pattern-2Alternating-Bass)
 
 Patterns: [1](fingerpicking_patterns.md#Pattern-1Basic-Worship-Flow) (verse), [3](fingerpicking_patterns.md#Pattern-3Rolling-Pattern) (build)
 
+During instrumental sections: Em – C – G – D
+
 ---
 
 ## 🎶 Contemporary Worship

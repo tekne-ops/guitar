@@ -49,3 +49,23 @@ P – i – m | P – i – m
 Use: hymns (e.g., Amazing Grace)
 
 ---
+
+<a id="default-hymn-pattern"></a>
+
+## ✅ Pattern 6: default hymn pattern
+```
+P – i – m – a – P – m – i – m
+```
+Use: hymns (e.g., Amazing Grace)
+
+---
+
+<a id="default-hymn-pattern-bigger"></a>
+
+## ✅ Pattern 7: default hymn pattern bigger
+```
+P – i – m – a – P – a – m – i
+```
+Use: hymns (e.g., Amazing Grace)
+
+---
